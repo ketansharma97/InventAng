@@ -1,1 +1,44 @@
-/* You can add global styles to this file, and also import other style files */
+    body{
+    background-color:#e2e2e2;
+    color:rgb(31, 13, 31);
+    }
+
+    .green-icon{
+    color:lightgreen;
+    }
+
+    .blue-icon{
+    color:darkblue;
+    }
+
+    
+    input.ng-touched.ng-invalid{
+    background-color: lightgoldenrodyellow;
+    }
+
+    input.ng.invalid{
+    background-color: darkcyan;
+    }
+
+    /* .container{
+        width:80%;
+        margin:2% auto;
+        padding:1.5em;
+        display: grid;
+        grid-template-columns: 30%  auto;
+    }
+
+    .section{
+        width:80%;
+        margin:2% auto;
+        padding:2em;
+    }
+
+    a{
+        color:white;
+        text-decoration: none;
+    } */
+
+
+
+    
